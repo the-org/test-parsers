@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@postlight/mercury-parser": "^2.1.0",
+    "node-podcast-parser": "^2.3.0",
     "rss-parser": "^3.7.0"
   }
 }

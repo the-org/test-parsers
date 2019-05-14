@@ -12,6 +12,8 @@
   "dependencies": {
     "@postlight/mercury-parser": "^2.1.0",
     "node-podcast-parser": "^2.3.0",
-    "rss-parser": "^3.7.0"
+    "request": "^2.88.0",
+    "rss-parser": "^3.7.0",
+    "superagent": "^5.0.5"
   }
 }

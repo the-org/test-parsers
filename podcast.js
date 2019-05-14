@@ -3,6 +3,8 @@ const superagent = require('superagent');
 
 const rssUrl = `https://feed.syntax.fm/rss`;
 
+// notes for getting xml from superagent request
+// https://github.com/visionmedia/superagent/issues/215
 
 let parse = (url) => {
 
